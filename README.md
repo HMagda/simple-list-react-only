@@ -71,3 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # simple-list-react-only
 # simple-list-react-with-redux
 # simple-list-react-with-redux
+# simple-list-react-with-redux
